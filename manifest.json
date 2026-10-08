@@ -4,6 +4,10 @@
   "forge": "47.4.0",
   "files": [
     {
+      "path": "mods/CustomSkinLoader_ForgeActive-14.17.jar",
+      "url": "https://raw.githubusercontent.com/helatitos/TFL-Launcher-Files/main/mods/CustomSkinLoader_ForgeActive-14.17.jar"
+    },
+    {
       "path": "mods/prueba.txt",
       "url": "https://raw.githubusercontent.com/helatitos/TFL-Launcher-Files/main/mods/prueba.txt"
     }
